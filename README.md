@@ -1,4 +1,4 @@
-# :trophy: GoStack 11 :trophy:
+# :rocket: GoStack 11 - Rocketseat :rocket:
 
 > Exercícios do GoStack Bootcamp da Rocketseat.
 
